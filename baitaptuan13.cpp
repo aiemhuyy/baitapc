@@ -302,21 +302,6 @@ public:
 
 int main()
 {
-    // person per1(01, "nguyen van a", "male");
-    // person per2 = per1;
-    // cout << "thong tin nguoi 2: " << endl;
-    // per2.display();
-    // person per3(02, "nguyen van b", "male");
-    // per3.swap(per2);
-    // per2.display();
-    // listofperson lofpers;
-    // lofpers.lofpers_Init(&lofpers);
-    // lofpers.add_pers(&lofpers, per1);
-    // lofpers.add_pers(&lofpers, per2);
-    // lofpers.add_pers(&lofpers, per3);
-    // lofpers.sortlistofpersonPerson(&lofpers);
-    // cout << "\nNoi dung listofperson la: " << endl;
-    // lofpers.lofpers_Display(&lofpers);
     student std1(1, "le thi mai", "female", NULL, 22, "ET4");
     student std2(2, "le thi hoa", "female", NULL, 23, "ET4");
     student std3(3, "Pham thanh long", "male", NULL, 24, "ET4");
